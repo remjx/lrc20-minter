@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lrc20-minter/static/css/main.31d6cfe0.css",
+    "main.js": "/lrc20-minter/static/js/main.068d34b3.js",
+    "static/js/787.28dc6f8f.chunk.js": "/lrc20-minter/static/js/787.28dc6f8f.chunk.js",
+    "index.html": "/lrc20-minter/index.html",
+    "main.068d34b3.js.map": "/lrc20-minter/static/js/main.068d34b3.js.map",
+    "787.28dc6f8f.chunk.js.map": "/lrc20-minter/static/js/787.28dc6f8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.068d34b3.js"
+  ]
+}
