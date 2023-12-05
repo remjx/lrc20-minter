@@ -229,7 +229,7 @@ export default function App() {
           </a>
         </div>
       </h1>
-      <div style={{ marginBottom: "16px" }}>
+      <div>
         Follow{" "}
         <a
           href="https://x.com/lockinalswallet"
@@ -238,6 +238,10 @@ export default function App() {
         >
           @lockinalswallet
         </a>
+      </div>
+      <div style={{ color: "red", marginBottom: "16px" }}>
+        Warning: This minter is not compatible with shrdlu2's version of LRC-20 protocol.
+        <br />
       </div>
 
       {!connectedWalletAddress ? (
