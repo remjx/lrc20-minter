@@ -1,3 +1,5 @@
+> **WARNING:** remjx/lrc20-minter is incompatible with shrdlu2's version of LRC-20 protocol: https://github.com/shrdlu2/lrc-20
+
 # 🔓 LRC-20
 
 > Read every word if you decide to test. These will be worthless. Use at your own risk.
