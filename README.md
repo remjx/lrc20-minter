@@ -1,4 +1,4 @@
-> **WARNING:** remjx/lrc20-minter is incompatible with shrdlu2's version of LRC-20 protocol: https://github.com/shrdlu2/lrc-20
+> **WARNING:** remjx/lrc20-minter (V1) is incompatible with shrdlu2's version of LRC-20 protocol https://github.com/shrdlu2/lrc-20 See V2: https://github.com/remjx/lrc20-minter-v2
 
 # 🔓 LRC-20
 
